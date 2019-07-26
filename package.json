@@ -1,0 +1,25 @@
+{
+  "name": "TestPluginWrapperForASAP",
+  "version": "1.0.0",
+  "description": "TestPluginWrapperForASAP",
+  "cordova": {
+    "id": "com.test.wrapper.asap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshthillaichithambaram/TestPluginWrapperForASAP.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "vignesh.thillai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshthillaichithambaram/TestPluginWrapperForASAP/issues"
+  },
+  "homepage": "https://github.com/vigneshthillaichithambaram/TestPluginWrapperForASAP#readme"
+}
