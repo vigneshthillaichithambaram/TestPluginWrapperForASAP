@@ -1,5 +1,5 @@
 {
-  "name": "TestPlugin-WrapperFor-ASAP",
+  "name": "com.test.wrapper.asap",
   "version": "1.0.0",
   "description": "TestPluginWrapperForASAP",
   "cordova": {
